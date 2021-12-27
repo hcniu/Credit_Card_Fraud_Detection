@@ -5,3 +5,4 @@ As an enthusiastic data scientist, I decide to do something to make the world be
 
 * The raw data file includes all the data file used.
 * The model file includes all the model attempted.
+* The process file includes all the r file throughout the entire project.
